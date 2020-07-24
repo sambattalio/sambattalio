@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+TIL you can have a readme on your github profile...
 <!--
 **sambattalio/sambattalio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
